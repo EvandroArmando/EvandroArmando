@@ -1,5 +1,25 @@
 # Oi eu sou o Evandro Armando, eterno aprendiz e entusiasta de programação e tecnologia !
 
+```javascript
+const anmol = {
+    pronouns: "Oi" | "Ola",
+    code: ["Javascript", "Python", "Java", "Swift", "Flutter"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express", "SuiteScript"],
+        },
+        mobileApp: {
+            native: ["Android Development", "IOS Development"]
+        },
+        databases: ["mongo", "MySql", ],
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Ios Mobile App Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 
 <div align="center">
   <a href="https://github.com/EvandroArmando">
