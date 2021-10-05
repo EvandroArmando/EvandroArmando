@@ -1,4 +1,4 @@
-# Oi eu sou o Evandro Armando, eterno aprendiz e entusiasta de programação e tecnologia !
+# Oi eu sou o Evandro Armando, eterno aprendiz e entusiasta de  tecnologia !
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60">
