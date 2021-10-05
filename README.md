@@ -13,7 +13,7 @@ const Bio = {
     email: 'otalarmando@gmail.com'.
   },
  
-    code: ["Javascript", "Python", "Java", "Swift", "Flutter"],
+    code: ["Javascript", "node", "Java", "Swift", "Flutter"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
