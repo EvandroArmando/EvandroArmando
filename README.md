@@ -1,21 +1,32 @@
 # Oi eu sou o Evandro Armando, eterno aprendiz e entusiasta de programação e tecnologia !
 
 ```javascript
-const anmol = {
+const Bio = {
     pronouns: "Oi" | "Ola",
+  name: 'Evandro Armando'
+  location: 'Luanda - Angola',
+  age: '20',
+  from: 'Angola',
+  to: 'Word',
+  hobbies: ['talk', 'networking', 'code', 'watch videos on Youtube', 'read', ],
+  contacts: {
+    email: 'otalarmando@gmail.com'.
+  },
+ 
     code: ["Javascript", "Python", "Java", "Swift", "Flutter"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node", "Fastify", "Express", "SuiteScript",
+            "dart"],
         },
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            hibrid: ["Android Development", "IOS Development",
+            "flutter" ]
         },
         databases: ["mongo", "MySql", ],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
