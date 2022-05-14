@@ -62,7 +62,6 @@ const Bio = {
 
 </div>
 
-
   ##
 
 <div>
